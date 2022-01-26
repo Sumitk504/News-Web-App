@@ -1,0 +1,1 @@
+ {this.state.articals.map((element)=>{
